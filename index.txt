@@ -1,2 +1,5 @@
 Hello DevOps
 This is my first project
+
+Git is very important for DevOps
+I am learning git step by step.
